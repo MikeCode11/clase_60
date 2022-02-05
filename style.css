@@ -1,0 +1,30 @@
+body {
+    text-align:center;
+    background-color: cadetblue;
+}
+
+h1 {
+    font-size:30px;
+    font-family:fantasy;
+    font-weight: 500;
+}
+
+#app {
+  background-color: aquamarine;
+}
+
+#game {
+  background-color: forestgreen;
+}
+
+#chatbot {
+  background-color: palevioletred;
+}
+
+.line {
+    height: 6px; background-color: #000; width: 70px; margin: 8px auto;
+}
+
+#bam {
+    margin: 20px;
+}
